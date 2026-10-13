@@ -3,7 +3,7 @@
 Source code and prompts for the paper:
 
 > **Knowledge Graph Construction and Causal Analysis for Maritime Safety: An HFACS-Guided Zero-Shot LLM Approach**
-> Yijie Xi and Jingbo Yin. *Ocean Engineering*, 2026 (under review).
+> Yijie Xi and Jingbo Yin. *Ocean Engineering*, 2026 (accept).
 
 This repository accompanies the manuscript and reproduces the extraction
 pipeline, the 29-category HFACS semantic grouping, and all analyses reported
